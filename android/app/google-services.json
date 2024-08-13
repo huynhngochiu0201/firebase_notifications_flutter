@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691009115319",
+    "project_id": "note-dung",
+    "storage_bucket": "note-dung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691009115319:android:83e7c9e499ec3fc831a932",
+        "android_client_info": {
+          "package_name": "com.dung.notedung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLaLbvoznPxYaa4ywtV-tfSbW1UMIvOmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
